@@ -1,0 +1,21 @@
+# Core Data Science Libraries
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+statsmodels
+xgboost
+catboost
+lightgbm
+
+# Jupyter & Notebook Support
+jupyter
+ipykernel
+ipywidgets
