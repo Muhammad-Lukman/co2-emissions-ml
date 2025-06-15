@@ -4,7 +4,7 @@ This project uses historical global data and machine learning to predict nationa
 
 ---
 👤 **Author**: Muhammad Lukman  
-🧪 Microbiology + Machine Learning Researcher  
+🧪 **Microbiology + Machine Learning Researcher**  
 📧 [Email](dr.mlukmanuaf@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-lukman-790468304) | 💻 [GitHub](https://github.com/Muhammad-Lukman)
 
 🗓️ **Last Updated**: June 2025
@@ -80,8 +80,26 @@ All plots are **colorblind-friendly**, **publication-ready**, and saved to `/out
 ---
 
 ## Requirements
+- Python 3.7+
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 Install with:
 
 ```bash
 pip install -r requirements.txt
+```
+
+---
+
+### Clone the Repository
+```bash
+git clone https://github.com/Muhammad-Lukman/co2-emissions-ml.git
+cd ml_workflow_explained
+pip install -r requirements.txt
+```
+
