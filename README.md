@@ -88,12 +88,6 @@ All plots are **colorblind-friendly**, **publication-ready**, and saved to `/out
 - Seaborn
 - Scikit-learn
 
-Install with:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ### Clone the Repository
